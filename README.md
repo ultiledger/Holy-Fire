@@ -13,3 +13,5 @@ The holders can get:
 - Airdrop of the new projects based on Ultiledger.
 - Airdrop of other communities which works with Untiledger Ecology Fund.
 - Airdrop of other activities.
+
+After March 1, 2019, the holder is free to exchange the HF token back to ULT. However, the fund will exchange up to 10 pieces per day to prevent the squeeze. In order to encourage the holding and operation, the fund will charge 0.1% of operation expenses when exchange for ULT (a certain amount of ULTwill be charged if it is within one week of the end of a airdrop activity).
